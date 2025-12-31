@@ -1,6 +1,9 @@
-Hi 👋, I'm Justine Cesar L. Ocampo  
-College Student • Aspiring Web Developer • OJT/Internship Seeker 🇵🇭
+<div align="center">
 
+# Hi 👋, I'm Justine Cesar L. Ocampo  
+### College Student • Aspiring Web Developer • OJT/Internship Seeker 🇵🇭
+
+</div>
 ---
 
 👨‍💻 **About Me**
