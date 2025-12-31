@@ -1,16 +1,22 @@
-## Hi there 👋
+Hi 👋, I'm Justine Cesar L. Ocampo  
+College Student • Aspiring Web Developer • OJT/Internship Seeker  
 
-<!--
-**tatineeeeeee/tatineeeeeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 About Me
+- College student passionate about web development  
+- Learning **JavaScript**, **Next.js**, and **Supabase**  
+- Building small projects to gain practical experience  
+- Open to internships/OJT and collaboration  
 
-Here are some ideas to get you started:
+📫 Contact Me
+- Facebook: [justinecesarocampo05](https://www.facebook.com/justinecesarocampo05)  
+- GitHub: [tatineeeeeee](https://github.com/tatineeeeeee)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Tech Stack
+- Frontend: HTML, CSS, JavaScript, Next.js  
+- Backend: Supabase, Node.js (basic)  
+- Tools: Git, GitHub, VS Code  
+
+🌱 Currently Learning
+- Advanced JavaScript concepts  
+- Building full-stack apps with Next.js & Supabase  
+- Improving coding best practices and project structure  
