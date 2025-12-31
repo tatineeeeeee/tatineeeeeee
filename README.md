@@ -39,15 +39,6 @@
 
 ---
 
-## 📊 GitHub Statistics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tatineeeeeee&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Justine's Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatineeeeeee&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ## ⚡ Fun Fact
 - Always experimenting with new projects to sharpen my skills
 <div align="center">
