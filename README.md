@@ -6,9 +6,9 @@
 <p align="center">
   <a href="mailto:justinecesarocampo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/tatineeeeeee"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/justine-cesar-ocampo-516a81271/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.facebook.com/justinecesarocampo05"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
-
 ---
 
 "Passionate about building modern web applications using the T3 Stack (Next.js, TypeScript, Supabase)."
